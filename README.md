@@ -1,4 +1,4 @@
-## ng-highcharts [![Build Status](https://travis-ci.org/bielversallini/ng-rangedatepicker.svg?branch=master)](https://travis-ci.org/bielversallini/ng-rangedatepicker)
+## ng-rangedatepicker [![Build Status](https://travis-ci.org/bielversallini/ng-rangedatepicker.svg?branch=master)](https://travis-ci.org/bielversallini/ng-rangedatepicker)
 Angular directive
 
 > **WORK IN PROGRESS!** 
